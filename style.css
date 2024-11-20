@@ -1,0 +1,204 @@
+body {
+   margin:0;
+   padding: 0;
+  }
+  .section{   
+   margin:0 auto;
+   height:1200px;
+   width:1200px;
+   
+  }
+
+  .find-work{
+   float:left;
+   height:1200px;
+   width:1200px;
+   
+  }
+  
+  .find-work-first{
+   float:left;
+   height:600px;
+   width:600px;
+  }
+  
+  .find-work-second{
+   float:left;
+   height:600px;
+   width:600px;
+   background:#093c9a;
+  }
+ .talent{
+   padding-left:30px;
+   color: #FFFFFF;
+   font-family: Arial, Helvetica, sans-serif;
+  }
+  .work{
+   padding-left:30px;
+   color: #FFFFFF;
+   font-size:40px;
+   font-family: Arial, Helvetica, sans-serif;
+  }
+  .heading{
+   padding-left:30px;
+   color: #ffffff;
+   font-size:20px;
+  }
+  .border{
+   margin-top:160px;
+   border-top: 1px solid #ccc;
+   border-radius: 1px;
+   margin-left:34px;
+   margin-right:34px;
+  }
+  .heading-first{
+   padding-left:30px;
+   color: #ffffff;
+   font-size:20px;
+   float: left;
+   border-radius:1px;
+   border:black;
+
+  }
+  .heading-second{
+   padding-left:30px;
+   color: #ffffff;
+   font-size:20px;  
+   float: left;
+   border-radius:1px;
+   border:black;
+  }
+  .heading-third{
+   padding-left:30px;
+   color: #ffffff;
+   font-size:20px;
+   float: left;
+   border-radius:1px;
+   border:black;
+  }
+  .button{
+      padding: 12px;
+      border: 1px  #ffffff;
+      color: #3a1ddb;
+      float: left;
+      border-radius: 1px;
+      margin-top: 10px;
+     
+  }
+  .section-two{   
+   margin:0 auto;
+   height:1200px;
+   width:1200px;
+   
+  }
+
+  .Enterprise{
+   float:left;
+   height:1200px;
+   width:1200px;
+   
+  }
+  
+  .company{
+   float:left;
+   height:600px;
+   width:600px;
+   background:#105301;
+  }
+  
+  .picture{
+   float:left;
+   height:600px;
+   width:600px;
+   background:#093c9a;
+  }
+ .suite{
+   padding-left:30px;
+   color: #FFFFFF;
+   font-family: Arial, Helvetica, sans-serif;
+   height:30px;
+  }
+  .how-work{
+   padding-left:30px;
+   color: #FFFFFF;
+   font-size:40px;
+   font-family: Arial, Helvetica, sans-serif;
+   height:10px;
+  }
+  .good-company{
+   padding-left:30px;
+   color: #ffffff;
+   font-size:46px;
+   font-family: Arial, Helvetica, sans-serif;
+   height:90px;
+  }
+  .works-now{
+   padding-left:30px;
+   color: #ffffff;
+   font-size:20px; 
+   height: 64px;
+
+  }
+  .icon-one{
+   padding-left:30px;
+   color: #ffffff;
+   height: 0px;
+   font-size:20px;
+   padding-top:12px;
+  }
+  .icon-two{
+   padding-left:30px;
+   color: #ffffff;
+   height: 0px;
+   font-size:20px;
+   padding-top:12px;
+  }
+.icon-three{
+ padding-left:30px;
+ color: #ffffff;
+ height: 0px;
+ font-size:20px;
+ padding-top:12px;
+}
+
+  .button{
+      padding-left: 26px;
+      padding-right: 26px;
+      border: 1px  #ffffff;
+      color: #057805;
+      border-radius: 10px;
+      margin-top: 36px;
+      margin-left:30px;
+     
+  }
+ 
+
+  
+  .footer{
+   height: 600px;
+   width: 1200px;
+   margin: 0 auto; 
+  }  
+  .footer-section{   
+   height: 600px;
+   width:300px;
+   background:#181818;
+   float: left;
+   padding-top:32px;
+  }
+  .footer-heading{   
+   height: 20px;
+   width: 150px;
+   font-size: 15px;
+   font-weight: 400;
+   float: left;
+   color:#FFFFFF;
+   padding-left:60px;
+  }
+  .footer-icons{  
+   font-size:8px;   
+   color:#FFFFFF;
+   padding-top:20px;
+   padding-left:60px;
+   float:left;
+  }
